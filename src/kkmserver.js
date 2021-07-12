@@ -2028,8 +2028,19 @@ function KkmCheck(kkm, typeCheck) {
 }
 
 module.exports = {
+    KkmCommand,
+    KkmCommandWithCashier,
+    KkmCommandWithAmount,
+    KkmCommandList,
+    KkmUnit,
+    KkmResponse,
+    KkmResponseError,
     KkmServer,
-    KkmCommand
+    KkmCommandCheck,
+    KkmCheckProperty,
+    KkmAdditionalCheckProperty,
+    KkmCheckString,
+    KkmCheck
 }
 
 
