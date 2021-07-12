@@ -2027,7 +2027,7 @@ function KkmCheck(kkm, typeCheck) {
 
 }
 
-export default {
+export {
     KkmCommand,
     KkmCommandWithCashier,
     KkmCommandWithAmount,
