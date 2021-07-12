@@ -2027,6 +2027,11 @@ function KkmCheck(kkm, typeCheck) {
 
 }
 
+module.exports = {
+    KkmServer,
+    KkmCommand
+}
+
 
 
 
