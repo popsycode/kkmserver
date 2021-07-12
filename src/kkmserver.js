@@ -2027,6 +2027,7 @@ function KkmCheck(kkm, typeCheck) {
 
 }
 
+export default KkmServer
 module.exports = {
     KkmCommand,
     KkmCommandWithCashier,
