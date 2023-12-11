@@ -8,7 +8,7 @@
     "url": "https://github.com/Muraveiko/kkmserver.git"
   },
   "engines": {
-    "node": "0.12.x"
+    "node": ">=0.12.x"
   },
   "scripts": {
     "start": "node index.js"
